@@ -1,5 +1,8 @@
 # AlpaSim evidence: follow-up to NVlabs/alpasim #192
 
+**Current report: [NVlabs/alpasim #193](https://github.com/NVlabs/alpasim/issues/193),
+explicitly following up on [#192](https://github.com/NVlabs/alpasim/issues/192).**
+
 This repository hosts only the curated evidence package for my
 [follow-up to NVlabs/alpasim #192](https://github.com/NVlabs/alpasim/issues/192).
 It is not the private AlphaChecking code repository.
